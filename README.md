@@ -2,9 +2,9 @@
   <img alt="Github explorer" title="#GithubExplorer" src=".github/logo.png" width="80px" />
 </h2>
 
-<h2 align="center">
+<h3 align="center">
 	My skills
-</h2>
+</h3>
 
 <br />
 
