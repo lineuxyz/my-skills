@@ -2,9 +2,12 @@
   <img alt="Github explorer" title="#GithubExplorer" src=".github/logo.png" width="80px" />
 </h2>
 
-<h1 align="center">
+<h2 align="center">
 	My skills
-</h1>
+</h2>
+
+<br />
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lineuxyz/my-skills?style=for-the-badge">
 
